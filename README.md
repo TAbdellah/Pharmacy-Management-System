@@ -140,7 +140,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, please create an issue in the GitHub repository or contact [your-email@example.com].
+For support, please create an issue in the GitHub repository or contact [tahtoh.dev@gmail.com].
 
 ## Acknowledgments
 
@@ -150,7 +150,12 @@ For support, please create an issue in the GitHub repository or contact [your-em
 
 ## Screenshots
 
-(Add screenshots of your application here)
+![image](https://github.com/user-attachments/assets/b8d7bf7d-f30f-47b1-9a4b-dbc5646cc778)
+
+![image](https://github.com/user-attachments/assets/4e457564-2cb3-40ca-be61-2f5b89b8d910)
+
+![image](https://github.com/user-attachments/assets/7e4b1e6a-70bb-40a2-b6d4-b20147acfeb0)
+
 
 ## Future Improvements
 
